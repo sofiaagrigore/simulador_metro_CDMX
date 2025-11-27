@@ -1,0 +1,37 @@
+Origen,Destino,Peso
+Balderas,Cuauhtémoc,409
+Cuauhtémoc,Insurgentes,793
+Insurgentes,Sevilla,645
+Sevilla,Chapultepec,501
+Chapultepec,Juanacatlán,973
+Juanacatlán,Tacubaya,1158
+Tacubaya,Observatorio,1262
+Juárez,Balderas,659
+Balderas,Niños Héroes,665
+Niños Héroes,Hospital General,559
+Hospital General,Centro Médico,653
+Centro Médico,Etiopía,1119
+Etiopía,Eugenia,950
+Eugenia,División del Norte,715
+División del Norte,Zapata,794
+Zapata,Coyoacán,1153
+Coyoacán,Viveros,908
+Viveros,Miguel Ángel de Quevedo,824
+Miguel Ángel de Quevedo,Copilco,1295
+Copilco,Universidad,1306
+Polanco,Auditorio,812
+Auditorio,Constituyentes,1430
+Constituyentes,Tacubaya,1005
+Tacubaya,San Pedro de los Pinos,1084
+San Pedro de los Pinos,San Antonio,606
+San Antonio,Mixcoac,788
+Mixcoac,Barranca del Muerto,1476
+Lázaro Cárdenas,Centro Médico,1059
+Centro Médico,Chilpancingo,1152
+Chilpancingo,Patriotismo,955
+Patriotismo,Tacubaya,1133
+Eje Central,Parque de los Venados,1280
+Parque de los Venados,Zapata,563
+Zapata,Hospital 20 de Noviembre,450
+Hospital 20 de Noviembre,Insurgentes Sur,725
+Insurgentes Sur,Mixcoac,651
